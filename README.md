@@ -4,7 +4,7 @@ Hello, I am Eros! I am quite a new developer trying to find his way in the world
 If you have any tips or information that might help me to learn something, please hit me up. I am open for any help.
 
 ## Contact
-You can contact me on Discord through `eros#1467` or by email at `eros@exelounge.net`
+You can contact me on Discord through `eros#1467`
 
 ## Currently trying to learn
 
